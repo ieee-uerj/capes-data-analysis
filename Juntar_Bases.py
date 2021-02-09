@@ -1,6 +1,12 @@
+#Usei esse código para juntar as bases de discentes. Depois de entende-lo basta mudar o que for nescessário para juntar as outras bases
+
 import os
 import glob
 import pandas as pd
+
+#usado para tirar uns avisos chatos de "mixed type"
+import warnings
+warnings.filterwarnings("ignore") 
 
 print('Importando as bases')
 path = "/home/gustavo/Downloads/Bases para juntar - Discentes" #pasta onde as bases estão guardadas (no meu caso, é claro)
