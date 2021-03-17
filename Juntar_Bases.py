@@ -3,13 +3,14 @@
 import os
 import glob
 import pandas as pd
+import inspect
 
 #usado para tirar uns avisos chatos de "mixed type"
 import warnings
 warnings.filterwarnings("ignore") 
 
 print('Importando as bases')
-path = "/home/gustavo/Downloads/Bases para juntar - Discentes" #pasta onde as bases estão guardadas (no meu caso, é claro)
+path = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe()))) #pasta onde as bases estão guardadas (no meu caso, é claro)
 
 all_files = glob.glob(os.path.join(path, "br-capes*.csv")) #"br-capes*.csv" é o início dos arquivos. Todos com "br-capes" serão juntados. ".csv" é a extensão
 
