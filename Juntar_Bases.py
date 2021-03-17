@@ -10,8 +10,7 @@ import warnings
 warnings.filterwarnings("ignore") 
 
 print('Importando as bases')
-path = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe()))) #pasta onde as bases estão guardadas (no meu caso, é claro)
-
+path = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe()))) 
 all_files = glob.glob(os.path.join(path, "br-capes*.csv")) #"br-capes*.csv" é o início dos arquivos. Todos com "br-capes" serão juntados. ".csv" é a extensão
 
 df_from_each_file = (pd.read_csv(f, sep=';',encoding='latin1') for f in all_files) #aqui é importante dar o comando pd.read_csv de forma certa. Na maioria dos artigos da internet acaba-se usando como boilerplate não se percebe que tem que definir o sep e o encoding "brasileiros"
