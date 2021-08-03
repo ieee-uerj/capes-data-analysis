@@ -129,5 +129,7 @@ dmypy.json
 .pyre/
 
 Gustavo/data/
-#*.csv
-#*.xlsx
+*.csv
+*.xlsx
+/transient
+/data 
