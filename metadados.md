@@ -28,28 +28,64 @@
 - Soma de todos as docentes mulheres
 
 ### GUS_Do_Brasileiros
+- Total de docentes brasileiros
+- ?
+- Soma de todos os docentes brasileiros
 
 ### GUS_Do_Estrangeiros
+- Total de docentes brasileiros
+- Talvez quando mais know-how estrangeiro melhor seja o programa
+- Soma de todos os docentes brasileiros
 
 ### GUS_Quantidade_Docentes
+- Total de docentes
+- Quanto mais recursos humanos melhor a nota?
+- Número total de docentse
 
 ### GUS_Dis_Homens
+- Total de homens discentes
+- Sexo e nota estão correlacionados?
+- Soma de todos os discentes homens
 
 ### GUS_Dis_Mulheres
+- Total de mulheres discentes
+- Sexo e nota estão correlacionados?
+- Soma de todos as discentes mulheres
 
 ### GUS_Dis_Brasileiros
+- Total de brasileiros discentes
+- ?
+- Total de brasileiros no programa
 
 ### GUS_Dis_Estrangeiros
+- Total de estrangeiros discentes
+- Mão de obra estrageira melhora a nota?
+- Total de estrangeiros no programa
 
 ### GUS_diferenca_idade
+- Diferença de idade entre aluno e orientador
+- Penso que pouca diferença de idade signifique diferença de experiência
+- Idade do orientador menos idade do aluno
 
 ### GUS_razao_aluno_prof
+- Razão aluno:professor
+- Um curso com mais professores por aluno desempenha melhor?
+- Numero de alunos/número de professores
 
 ### GUS_Quantidade_Discentes
+- Total de dicentes
+- Quanto maior o curso melhor a nota?
+- Número total de alunos
 
 ### GUS_Dis_Prop_Homens
+- Proporção de homens
+- Sexo interfere na nota?
+- Quantidade de homens/total
 
 ### GUS_Dis_Aluno_Tempo
+- Razão aluno:tempo médio de titulação
+- ?
+- Quantidade de discentes/tempo médio de titulação
 
 ## **Features da Isabella e Beatriz**
 
