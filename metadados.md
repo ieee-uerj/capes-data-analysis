@@ -129,8 +129,16 @@
 
 ### UF_Qtd_Proj
 
+- Quantidade de Projetos
+- Saber se a quantidade de projetos influencia na nota
+- Soma da quantidade total de projetos
+
 ### UF_Pesquisas        
 
 ### UF_Outros projetos
 
 ### UF_Qtd_Financiamentos
+
+- Quantidade de financiamentos
+- Saber se a quantidade de financiamento influencia na nota
+- Soma da quantidade total de financiamentos
