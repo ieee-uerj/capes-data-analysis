@@ -134,9 +134,11 @@
 - Soma da quantidade total de projetos
 
 ### UF_Pesquisas        
-
+- QTD de Projetos baseados em pesquisas
+- identificar a influência na nota
 ### UF_Outros projetos
-
+- Projetos como, extensão, inovação e outros, nos quais foi verificado que não são comuns no Brasil
+- identificar a influência na nota
 ### UF_Qtd_Financiamentos
 
 - Quantidade de financiamentos
