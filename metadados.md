@@ -127,8 +127,12 @@
 
 ## **Features do Uriel e félix**
 
-### UF_Qtd_Proj
+### UF_NM_MODALIDADE_PROGRAMA
+- Modalidade do programa (Acadêmico ou Profissional)
+- Observar a diferença de desempenho entre um programa acadêmico e um profissional
+- 1 - Acadêmico 2 - Profissional
 
+### UF_Qtd_Proj
 - Quantidade de Projetos
 - Saber se a quantidade de projetos influencia na nota
 - Soma da quantidade total de projetos
@@ -136,11 +140,23 @@
 ### UF_Pesquisas        
 - QTD de Projetos baseados em pesquisas
 - identificar a influência na nota
+
 ### UF_Outros projetos
 - Projetos como, extensão, inovação e outros, nos quais foi verificado que não são comuns no Brasil
 - identificar a influência na nota
-### UF_Qtd_Financiamentos
 
+### UF_Qtd_Financiadores
 - Quantidade de financiamentos
 - Saber se a quantidade de financiamento influencia na nota
 - Soma da quantidade total de financiamentos
+
+### UF_BOLSA
+- Quantidade de Bolsas recebidas por programa
+- Saber se a quantidade de bolsas influencia na nota
+- Soma da quantidade total de bolsas
+
+### UF_OUTRO_AUXÍLIO_FINANCEIRO
+
+- Quantidade de outros auxílios financeiros, que não são bolsas, recebido pelos programas
+- Saber se a quantidade de outros auxílios financeiros influencia na nota
+- Soma da quantidade total de outros auxílios financeiros
