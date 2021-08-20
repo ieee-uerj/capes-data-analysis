@@ -90,28 +90,64 @@
 ## **Features da Isabella e Beatriz**
 
 ### IB_Total_docentes
+- Total de docentes
+- Existe relação entre a quantidade de docentes e a nota do curso?
+- Número total de docentes
 
 ### IB_Mulheres
+- Proporção de mulheres
+- Gênero interfere na nota do programa?
+- Quantidade de mulheres/total
 
 ### IB_Homens
+- Proporção de homens
+- Gênero interfere na nota do programa?
+- Quantidade de homens/total
 
 ### IB_Brasileiros
+- Proporção de docentes brasileiros
+- Qual a proporção de brasileiros x estrangeiros?
+- Quantidade de brasileiros/total
 
 ### IB_Estrangeiros
+- Proporção de docentes estrangeiros
+- Qual a proporção de brasileiros x estrangeiros?
+- Quantidade de estrangeiros/total
 
 ### IB_QTDE_Regime_Parcial
+- Quantidade de docentes contratatos em Regime Parcial de trabalho.
+- O regime de contratação dos docentes influencia na nota do programa? (principalmente regime exclusivo)
+-  
 
 ### IB_QTDE_Regime_Integral
+- Quantidade de docentes contratatos em Regime Integral de trabalho.
+- O regime de contratação dos docentes influencia na nota do programa? (principalmente regime exclusivo)
+-  
 
 ### IB_QTDE_Regime_Exclusivo
+- Quantidade de docentes contratatos em Regime Exclusivo de trabalho.
+- O regime de contratação dos docentes influencia na nota do programa? (principalmente regime exclusivo)
+-  
 
 ### IB_QTDE_Prof_Doutor
+- Quantidade de docentes com a titulação de Doutor.
+- O número de docentes doutores influencia na nota do programa?
+- Quantidade de doutores/total
 
 ### IB_QTDE_Prof_NaoDoutor
+- Quantidade de docentes que não possuem a titulação de Doutor.
+- O número de docentes sem a doutorado influencia na nota do programa?
+- Quantidade de não doutores/total
 
 ### IB_QTDE_titulados_Brasil
+- Quantidade de docentes titulados no Brasil.
+- O país de titulação do docente influencia na nota do programa?
+-
 
 ### IB_QTDE_titulados_Exterior
+- Quantidade de docentes titulados no exterior.
+- O país de titulação do docente influencia na nota do programa?
+-
 
 ### IB_Profs_Colaboradores
 
@@ -124,6 +160,9 @@
 ### IB_Profs_BolsaDeFixacao
 
 ### IB_Total_cursos
+- Quantidade de cursos dentro do programa de PPG.
+- A quantidade total de cursos influencia na nota do programa?
+- Soma de cursos por PPG-Ano.
 
 ## **Features do Uriel e félix**
 
