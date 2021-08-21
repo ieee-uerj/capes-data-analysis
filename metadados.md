@@ -169,7 +169,7 @@
 ### UF_NM_MODALIDADE_PROGRAMA
 - Modalidade do programa (Acadêmico ou Profissional)
 - Observar a diferença de desempenho entre um programa acadêmico e um profissional
-- 1 - Acadêmico 2 - Profissional
+- 1 - Acadêmico 0 - Profissional
 
 ### UF_Qtd_Proj
 - Quantidade de Projetos
@@ -195,7 +195,16 @@
 - Soma da quantidade total de bolsas
 
 ### UF_OUTRO_AUXÍLIO_FINANCEIRO
-
 - Quantidade de outros auxílios financeiros, que não são bolsas, recebido pelos programas
 - Saber se a quantidade de outros auxílios financeiros influencia na nota
 - Soma da quantidade total de outros auxílios financeiros
+
+### UF_DS_DEPENDENCIA_ADMINISTRATIVA
+- Dizer se o programa pertence a uma instituição pública ou privada
+- Saber se ser pública ou privada influencia na nota
+- 1 - Pública 0 - Privada
+
+### UF_QTD_FINANCIADORES
+- Quantidade de financiadores
+- Saber se a quantidade de financiadores influencia na nota
+- Soma da quantidade de financiadores únicos por programa
