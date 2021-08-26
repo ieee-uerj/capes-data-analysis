@@ -142,22 +142,35 @@
 ### IB_QTDE_titulados_Brasil
 - Quantidade de docentes titulados no Brasil.
 - O país de titulação do docente influencia na nota do programa?
--
 
 ### IB_QTDE_titulados_Exterior
 - Quantidade de docentes titulados no exterior.
 - O país de titulação do docente influencia na nota do programa?
--
 
 ### IB_Profs_Colaboradores
+- Quantidade de professores com o vínculo de trabalho "Colaborador"
+- O vínculo de trabalho dos professores influencia na nota do programa?
+- Quantidade de docentes colaboradores
 
 ### IB_Profs_ServidoresPublicos
+- Quantidade de professores com o vínculo de trabalho "Servidores Públicos"
+- O vínculo de trabalho dos professores influencia na nota do programa?
+- Quantidade de docentes servidores públicos
 
 ### IB_Profs_VinculoCLT
+- Quantidade de professores com o vínculo de trabalho "CLT"
+- O vínculo de trabalho dos professores influencia na nota do programa?
+- Quantidade de docentes com vínculo CLT
 
 ### IB_Profs_Aposentados
+- Quantidade de professores aposentados.
+- O vínculo de trabalho dos professores influencia na nota do programa?
+- Quantidade de docentes aposentados.
 
 ### IB_Profs_BolsaDeFixacao
+- Quantidade de professores que possuem bolsa de fixação.
+- A quantidade de bolsa de fixação dos professores influencia na nota do programa?
+- Quantidade de professores que possuem bolsa de fixação.
 
 ### IB_Total_cursos
 - Quantidade de cursos dentro do programa de PPG.
