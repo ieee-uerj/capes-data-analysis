@@ -11,4 +11,4 @@ Versão com a limpeza dos outliers de número de docentes (feature IB_Total_doce
 
 ### Grande Base 4
 
-Versão com a exclusão de: Colunas iguais, Colunas com alta correlação e a coluna Unamed. Além disso, nessa versão foi renomeado algumas colunas de acordo com os nomes do arquivo 'metadados.md'.     
+Essa versão possui a exclusão de: Colunas iguais, Colunas com alta correlação e da coluna Unamed. Além disso, nessa versão foi renomeado algumas colunas de acordo com os nomes das features do arquivo <a href =https://github.com/ieee-uerj/capes-data-analysis/blob/main/metadados.md> metadados.md </a>. Para mais informações acesse: <a href =https://github.com/ieee-uerj/capes-data-analysis/blob/main/Andrey/features_duplicadas.ipynb> Notebook de geração da Grande Base 4 </a>.
